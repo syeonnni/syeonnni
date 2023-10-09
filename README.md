@@ -1,14 +1,12 @@
 # ▎Welcome to My GitHub 👋 
 - SNS : <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
 
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syeonnni&layout=compact)](https://github.com/syeonnni/github-readme-stats)
+### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syeonnni&layout=compact&theme=dracula)
 
 # ▎Primary Tech Stacks
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sying">
+&nbsp;&nbsp;&nbsp;**<Techs that I've used at least once></div>**
 
-<div align="center">* Techs that I've used at least once</div>
-    
-- Server : <span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></span>
+- Server : <span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/></span>
 - Back-end : <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
@@ -23,3 +21,6 @@
 <span><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></span>
 - Cowork Tool : <span><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></span>
+
+# ▎BaekJoon Rank
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sying">
