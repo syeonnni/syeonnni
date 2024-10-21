@@ -2,7 +2,7 @@
 - SNS : <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
 
 ### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syeonnni&layout=compact&theme=dracula)
-
+/*
 # ▎Primary Tech Stacks
 &nbsp;&nbsp;&nbsp;**<Techs that I've used at least once></div>**
 
@@ -21,3 +21,4 @@
 <span><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></span>
 - Cowork Tool : <span><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></span>
+*/
