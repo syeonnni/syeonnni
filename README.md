@@ -21,6 +21,3 @@
 <span><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></span>
 - Cowork Tool : <span><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></span>
-
-# ▎BaekJoon Rank
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sying">
