@@ -27,24 +27,24 @@
 <br>
 <br>
 
-## Flow Chart
+## 3. Flow Chart
 
   ![alt text](flowchart.png)
 <br>
 
-## Architecture
+## 4. Architecture
 <br>
 
-## ER(Entity Relation) 다이어그램
+## 5. ER(Entity Relation) 다이어그램
 
   ![alt text](ERD.png)
 <br>
 
-## UI Prototype  
+## 6. UI Prototype  
 * **메인페이지**
 <br>
 
-## 디렉토리 구조
+## 7. 디렉토리 구조
 
 데이터 수집 
 1. 전기차 등록 현황 https://chargeinfo.ksga.org/front/statistics/evCar / 지역별 크롤링
